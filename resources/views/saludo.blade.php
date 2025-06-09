@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>¡Hola, {{ $nombre }}!</h1>
-    <p>ffvfvf</p>
+    <p>sebas</p>
 </body>
 </html>
